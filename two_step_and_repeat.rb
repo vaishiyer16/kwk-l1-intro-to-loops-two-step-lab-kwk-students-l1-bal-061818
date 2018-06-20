@@ -46,7 +46,7 @@ def how_many_steps
   loop do
     steps += 1
     puts "Steps!"
-    if steps % 2 = 0
+    if steps%2 = 0
       puts "Left"
     elsif
       puts "Right!"
