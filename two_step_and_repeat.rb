@@ -48,7 +48,7 @@ def how_many_steps
     puts "Steps!"
     if steps % 2 = 0
       puts "Left"
-    else
+    elsif
       puts "Right!"
   end
 end
