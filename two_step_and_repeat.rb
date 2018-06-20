@@ -73,4 +73,4 @@ def break_dance
   end
 end
 end
-break_dance(6)
+break_dance
