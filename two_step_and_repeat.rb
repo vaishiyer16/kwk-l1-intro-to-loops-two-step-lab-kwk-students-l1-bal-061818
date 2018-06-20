@@ -61,7 +61,7 @@ def break_dance
   steps = 0
   loop do
     steps += 1
-    puts "Steps!"
+    puts Steps
     if steps%2 ==0
       puts "Left"
     else
