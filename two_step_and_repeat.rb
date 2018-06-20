@@ -45,13 +45,13 @@ def how_many_steps
   steps = 0
   loop do
     steps += 1
-    puts "Steps!"
+    puts Steps
     if steps%2 = 0
       puts "Left"
     else
       puts "Right!"
+    end
   end
-end
 end
 
 
